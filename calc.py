@@ -12,6 +12,8 @@ def mul(x, y):
 def div(x, y):
     return x/y
 
+def na(x,y):
+    return x%y
 # main function
 def main():
     check = 1
